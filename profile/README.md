@@ -7,7 +7,7 @@ Fully updated for 2025 gameplay and designed for performance and ease of use.
 
 <div style="text-align: center">
   <a href="https://keyless-fisch-script.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-FishScriptr-blueviolet">
+    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-FishScript-blueviolet">
   </a>
 </div>
 
